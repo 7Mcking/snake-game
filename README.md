@@ -5,5 +5,22 @@ and the linker sees the library
 
 To play the game download the repo and build.
 
+```
+git clone https://github.com/7Mcking/snake-game.git
+```
+
+Navigate to the main.cpp file in the cloned repo and build 
+
+
+```
+clang++ main.cpp -o main.out
+```
+Run
+```
+./main.out
+```
+
+How it looks:
+![Snake Game](https://github.com/7Mcking/snake-game/blob/main/Screenshot%202023-08-27%20at%2013.00.38.png)
 
 
