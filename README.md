@@ -13,7 +13,7 @@ Navigate to the main.cpp file in the cloned repo and build
 
 
 ```
-clang++ main.cpp -o main.out
+clang++ main.cpp -lncurses -o main.out
 ```
 Run
 ```
