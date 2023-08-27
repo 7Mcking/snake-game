@@ -22,15 +22,6 @@ int main(int argc, char *argv[]) {
         myGame.redraw();
     }
     
-    // 1. Get input from the user
-    
-    
-    // 2. update game state
-    
-    // 3. redaw display
-    
-    // 4. go to 1, unless over
-    
     getch();
     endwin();
     
